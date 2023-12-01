@@ -5,7 +5,8 @@ import {
   Feed,
   SearchFeed,
   VideoDetail,
-  ChannelDetail
+  ChannelDetail,
+  SearchBar
 } from "./components";
 
 const App = () => (
